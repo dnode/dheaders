@@ -1,0 +1,13 @@
+{
+  "name": "dheaders",
+  "description": "Set all security relevant response headers",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/dheaders",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/middleware.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dheaders.git"
+  }
+}
